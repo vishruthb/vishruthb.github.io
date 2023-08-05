@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: UCSC '25, Electrical Engineering and Computer Science.
 
 profile:
   align: right
