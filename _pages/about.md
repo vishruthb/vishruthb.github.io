@@ -18,6 +18,7 @@ social: true  # includes social icons at the bottom of the page
 Welcome to my little patch of the internet.
 
 I'm currently at student at UC Santa Cruz with a passion for computer science. I have worked extensively with advanced algorithms and competed in the [USA Computing Olympiad](http://www.usaco.org/index.php) Gold Division, and I’m guided by my belief that enthusiasm is one of the best sources of motivation. In my
-spare time, I like tinkering with projects, such as competing in [hackathons](https://devpost.com/vishruthbharath), making this website, and building [Dermahub] (http://dermahub.org/).
+spare time, I like tinkering with projects, such as competing in [hackathons](https://devpost.com/vishruthbharath), making this website, and building 
+[Dermahub](http://dermahub.org/).
 
 I also enjoy good music, attempting to cook food, hiking, and playing poker.
